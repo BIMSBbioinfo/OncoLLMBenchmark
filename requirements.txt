@@ -1,0 +1,7 @@
+boto3==1.37.34
+functions==0.7.0
+langchain==0.3.23
+langchain_aws==0.2.19
+numpy==2.2.4
+pandas==2.2.3
+tqdm==4.67.1
