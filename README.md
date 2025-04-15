@@ -24,4 +24,9 @@ to structure the assessment_plan column:\
 ```structure_plan_BRCA.py```\
 ```structure_plan_PDAC.py```
 
+## Environment
+Create a new environment with python==3.10 and install the libraries from requirements.txt:
+```
+pip install -r requirements.txt
+```
 
